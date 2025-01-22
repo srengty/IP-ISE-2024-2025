@@ -1,0 +1,7 @@
+.metadata
+*.exe
+*.class
+bin/
+target/
+.settings/
+.vscode/
