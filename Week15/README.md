@@ -14,37 +14,41 @@ You have tested your application before showing it to customer (present to clien
  3. Can you train other teams on how to use your software?
 
 ## Task 2: Regression tests
-Regression tests are done when maintaining a software. Steps to setup: 
-    - Add JUnit to your project
-    - Add tests for every main features
-    - Make sure all pass the tests
-    - If the codes has changed, rerun the test
-    - If a new feature added, add new test and rerun the whole tests.
-    - If a feature is updated, modify the tests related to that feature and rerun the whole tests
-    - Repeat for all the changes
+Regression tests are done when maintaining a software. Steps to setup:
+
+  - Add JUnit to your project
+  - Add tests for every main features  
+  - Make sure all pass the tests
+  - If the codes has changed, rerun the test
+  - If a new feature added, add new test and rerun the whole tests.
+  - If a feature is updated, modify the tests related to that feature and rerun the whole tests
+  - Repeat for all the changes
 
 ## Task 3: User manual
 Write a user manual for guiding end user to use your application. User manual shall include:
-    - Cover, version, team name and members, 
-    - Introduction
-    - Usage from beginning to end of use
-    - How to file a bug report or complain
-    - How to some common issues
+
+  - Cover, version, team name and members, 
+  - Introduction
+  - Usage from beginning to end of use
+  - How to file a bug report or complain
+  - How to solve some common issues
 
 ## Task 4: Training
 Write another slide presentation for training other developer teams to continue your development project. It shall include:
-    - System requirements (OS, IDE, tools, db, RAM, SSD, ...)
-    - Getting the source code (from Git, add collaboration)
-    - Setup and compilation
-    - Database structure if any
-    - Data structure
-    - Class relationships and structure if any
+
+  - System requirements (OS, IDE, tools, db, RAM, SSD, ...)
+  -  Getting the source code (from Git, add collaboration)
+  - Setup and compilation
+  - Database structure if any
+  - Data structure
+  - Class relationships and structure if any
 
 ## Task 5
 Share your achievement(s) with your classmates by writing the list of your achievements received from this project.
 
 ## Task 6
 Archive the project for future maintenance. Things to archive:
+
   - Project source code
   - Documentation
   - Export Database (if any)
