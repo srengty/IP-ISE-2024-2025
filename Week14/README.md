@@ -2,7 +2,6 @@
 In this lab you will be asked to report progress and show project codes or plan and resources.
 
 ## Team 1: Budgeting tool
-    - Re
  - Does the project is completed?
  - What will you do this week?
  - Any problem related to project development?
